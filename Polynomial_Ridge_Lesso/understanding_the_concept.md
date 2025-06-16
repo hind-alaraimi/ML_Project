@@ -44,7 +44,7 @@ B.     **Ridge** regularization
 
 **Cost function = Loss + λ + Σ ||w||**
 
-Here,
+Where,
 
 Loss = sum of squared residual
 
@@ -59,7 +59,7 @@ w = slope of the curve
 
 **Cost function = Loss + λ + Σ ||w||2**
 
-Here,
+Where,
 
 Loss = sum of squared residual
 
